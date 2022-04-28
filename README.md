@@ -1,4 +1,5 @@
 Projeto feito no Curso Fundamentos de React: escrevendo com Typescript
+
 O projeto tem como objetivo criar um cronometro utilizando React e escrevendo com Typescript. Para estilização so projeto foi utilizado a linguagem Sass.
 
 
